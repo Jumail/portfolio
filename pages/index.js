@@ -14,15 +14,20 @@ export default function Home() {
           <h1 className=" font-bold text-4xl">Mohamed Jumail</h1>
           <div className="flex space-x-4">
             <a
+              href="https://github.com/jumail"
+              className="font-semibold hover:underline"
+            >
+              Github
+            </a>
+            <a
               href="https://www.facebook.com/jumailll/"
-              className="font-semibold"
+              className="font-semibold hover:underline"
             >
               Facebook
             </a>
-            <a className="font-semibold text-opacity-50">LinkedIn</a>
             <a
               href="https://twitter.com/MohamedJumail"
-              className="font-semibold"
+              className="font-semibold hover:underline"
             >
               Twitter
             </a>
