@@ -53,7 +53,7 @@ export default function Home() {
             </p>
           </div>
         </div>
-        <div className="grid px-64 pr-64 space-x-8 justify-items-end">
+        {/* <div className="grid px-64 pr-64 space-x-8 justify-items-end">
           <div className="flex space-y-8">
             <h3 className="font-bold w-56">Workflow</h3>
             <p className="h-auto w-auto text-2xl">
@@ -64,7 +64,7 @@ export default function Home() {
               data.{" "}
             </p>
           </div>
-        </div>
+        </div> */}
         <div className="grid px-64 pr-64 space-x-8 justify-items-end">
           <div className="flex space-y-8">
             <h3 className="font-bold w-56">What I do</h3>
