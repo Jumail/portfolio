@@ -129,7 +129,7 @@ export default function Home() {
             </Link>
             <div className="space-y-2 ml-2">
               <p className="text-2xl">
-                This is an demo app that I have created while learning
+                This is a demo app that I have created while learning
                 React-Native. I have tried to implement complex UI that are hard
                 to accomplish.
               </p>
